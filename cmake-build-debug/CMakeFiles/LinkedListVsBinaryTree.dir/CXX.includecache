@@ -6,19 +6,33 @@
 
 #IncludeRegexTransform: 
 
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/BinarySearchTree.h
-Location.h
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/Location.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/BinarySearchTree.cpp
+BinarySearchTree.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/BinarySearchTree.h
+iostream
+-
 
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/LinkedList.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/BinarySearchTree.h
 Location.h
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/Location.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/Location.h
+Node.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/Node.h
 
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/Location.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/LinkedList.h
+Location.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/Location.h
+Node.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/Node.h
+
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/Location.h
 string
 -
 
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/main.cpp
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/Node.h
+Location.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/Location.h
+
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/main.cpp
 iostream
 -
 sstream
@@ -29,8 +43,10 @@ vector
 -
 fstream
 -
+chrono
+-
 LinkedList.h
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/LinkedList.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/LinkedList.h
 BinarySearchTree.h
-/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/BinarySearchTree.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/BinarySearchTree.h
 

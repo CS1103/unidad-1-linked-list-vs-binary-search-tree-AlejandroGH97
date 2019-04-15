@@ -26,7 +26,17 @@ public:
 
     // Declare los metodos que crea necesario
 
+    int getID();
+
+    void print();
+
     // Cree que sea necesario agregar destructor, justifique
+    /*
+     * No porque no se esta usando new en ninguna parte de la clase Location,
+     * los destructores de BinarySearchTree y Linked List ya borran todo lo que tienen
+     * dentro incluyendo el Location.
+     *
+     * */
 
 };
 

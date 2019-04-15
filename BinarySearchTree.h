@@ -5,30 +5,24 @@
 #ifndef LINKEDLISTVSBINARYTREE_BINARYTREE_H
 #define LINKEDLISTVSBINARYTREE_BINARYTREE_H
 #include "Location.h"
+#include "Node.h"
 
 namespace UTEC {
 
-    struct Node {
-        Location data;
-        Node* right;
-        Node* left;
-    };
-
     class BinarySearchTree {
         Node* root;
+
     public:
         BinarySearchTree();
         ~BinarySearchTree();
-        void insert(Location data);
-        void clear();
+        void insert(Node* current, Location data);
+        void clear(Node* _root);
         bool is_empty();
         Node* get_root();
-        Node* search(std::string position_id);
-        void print();
+        Node* search(int position_id);
+        void print(int position_id);
     };
 
-    void load_locations(BinarySearchTree* linked_list, std::string file_name);
-    void print_node(Node* node);
 }
 
 #endif //LINKEDLISTVSBINARYTREE_BINARYTREE_H

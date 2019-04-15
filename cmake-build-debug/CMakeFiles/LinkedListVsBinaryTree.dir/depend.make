@@ -4,16 +4,23 @@
 CMakeFiles/LinkedListVsBinaryTree.dir/BinarySearchTree.cpp.o: ../BinarySearchTree.cpp
 CMakeFiles/LinkedListVsBinaryTree.dir/BinarySearchTree.cpp.o: ../BinarySearchTree.h
 CMakeFiles/LinkedListVsBinaryTree.dir/BinarySearchTree.cpp.o: ../Location.h
+CMakeFiles/LinkedListVsBinaryTree.dir/BinarySearchTree.cpp.o: ../Node.h
 
 CMakeFiles/LinkedListVsBinaryTree.dir/LinkedList.cpp.o: ../LinkedList.cpp
 CMakeFiles/LinkedListVsBinaryTree.dir/LinkedList.cpp.o: ../LinkedList.h
 CMakeFiles/LinkedListVsBinaryTree.dir/LinkedList.cpp.o: ../Location.h
+CMakeFiles/LinkedListVsBinaryTree.dir/LinkedList.cpp.o: ../Node.h
 
 CMakeFiles/LinkedListVsBinaryTree.dir/Location.cpp.o: ../Location.cpp
 CMakeFiles/LinkedListVsBinaryTree.dir/Location.cpp.o: ../Location.h
 
+CMakeFiles/LinkedListVsBinaryTree.dir/Node.cpp.o: ../Location.h
+CMakeFiles/LinkedListVsBinaryTree.dir/Node.cpp.o: ../Node.cpp
+CMakeFiles/LinkedListVsBinaryTree.dir/Node.cpp.o: ../Node.h
+
 CMakeFiles/LinkedListVsBinaryTree.dir/main.cpp.o: ../BinarySearchTree.h
 CMakeFiles/LinkedListVsBinaryTree.dir/main.cpp.o: ../LinkedList.h
 CMakeFiles/LinkedListVsBinaryTree.dir/main.cpp.o: ../Location.h
+CMakeFiles/LinkedListVsBinaryTree.dir/main.cpp.o: ../Node.h
 CMakeFiles/LinkedListVsBinaryTree.dir/main.cpp.o: ../main.cpp
 

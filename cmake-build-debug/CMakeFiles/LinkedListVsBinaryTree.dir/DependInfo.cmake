@@ -4,10 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/BinarySearchTree.cpp" "/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/cmake-build-debug/CMakeFiles/LinkedListVsBinaryTree.dir/BinarySearchTree.cpp.o"
-  "/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/LinkedList.cpp" "/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/cmake-build-debug/CMakeFiles/LinkedListVsBinaryTree.dir/LinkedList.cpp.o"
-  "/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/Location.cpp" "/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/cmake-build-debug/CMakeFiles/LinkedListVsBinaryTree.dir/Location.cpp.o"
-  "/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/main.cpp" "/home/ruben/CLionProjects/LinkedListVsBinarySearchTree/cmake-build-debug/CMakeFiles/LinkedListVsBinaryTree.dir/main.cpp.o"
+  "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/BinarySearchTree.cpp" "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/cmake-build-debug/CMakeFiles/LinkedListVsBinaryTree.dir/BinarySearchTree.cpp.o"
+  "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/LinkedList.cpp" "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/cmake-build-debug/CMakeFiles/LinkedListVsBinaryTree.dir/LinkedList.cpp.o"
+  "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/Location.cpp" "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/cmake-build-debug/CMakeFiles/LinkedListVsBinaryTree.dir/Location.cpp.o"
+  "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/Node.cpp" "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/cmake-build-debug/CMakeFiles/LinkedListVsBinaryTree.dir/Node.cpp.o"
+  "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/main.cpp" "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/LinkedListVsBinaryTree/cmake-build-debug/CMakeFiles/LinkedListVsBinaryTree.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
